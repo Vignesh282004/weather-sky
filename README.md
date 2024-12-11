@@ -53,13 +53,7 @@ Browser
 http://localhost:8080
 ### 📸 Screenshots
 
-Here is a preview of the application:
+# Screenshots
+1. Home Page
 
-*Screenshot 1: Search input *
-![WeatherApp Screenshot 1](src/main/resources/static/images/clear.png)
-
-*Screenshot 2: Weather details view.*
-![WeatherApp Screenshot 2](src/main/resources/static/images/Get.png)
-
-*Screenshot 2: if u given wrong city which does'nt exist it gives error*
-![WeatherApp Screenshot 2](src/main/resources/static/images/Error.png)
+![Home Page](https://github.com/Vignesh282004/weather-sky/main/src/main/resources/static/images/Get.png)
