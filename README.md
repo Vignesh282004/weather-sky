@@ -56,4 +56,4 @@ http://localhost:8080
 # Screenshots
 1. Home Page
 
-![Home Page](https://github.com/Vignesh282004/weather-sky/main/src/main/resources/static/images/Get.png)
+![Home Page](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/clear.png)
