@@ -56,10 +56,10 @@ http://localhost:8080
 Here is a preview of the application:
 
 *Screenshot 1: Search input *
-![WeatherApp Screenshot 1](src/main/resources/static/clear.png)
+![WeatherApp Screenshot 1](src/main/resources/static/images/clear.png)
 
 *Screenshot 2: Weather details view.*
-![WeatherApp Screenshot 2](src/main/resources/static/Get.png)
+![WeatherApp Screenshot 2](src/main/resources/static/images/Get.png)
 
 *Screenshot 2: if u given wrong city which does'nt exist it gives error*
-![WeatherApp Screenshot 2](src/main/resources/static/Error.png)
+![WeatherApp Screenshot 2](src/main/resources/static/images/Error.png)
