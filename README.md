@@ -57,3 +57,11 @@ http://localhost:8080
 1. Home Page
 
 ![Home Page](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/clear.png)
+
+1. Weather Details View
+
+![Weather Details View](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/Get.png)
+
+1. Error, if u given any wrong city or country that doesnot exist 
+
+![Error](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/Error.png)
